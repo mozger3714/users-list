@@ -1,4 +1,4 @@
-##Run 'npm i' before start!
+### `Run 'npm i' before start!`
 
 ## Available Scripts
 
