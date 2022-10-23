@@ -1,3 +1,5 @@
+An example app with input to search and filter users.
+
 ### `Run 'npm i' before start!`
 
 ## Available Scripts
